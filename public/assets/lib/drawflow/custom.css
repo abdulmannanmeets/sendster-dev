@@ -1,0 +1,17 @@
+#mailengine_drawflow {
+    border: 1px solid rgb(11 11 60 / 25%) !important;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+#node-drawflow_toolbar {
+    background: none !important;
+    border: 0 !important;
+    padding: 0 !important;
+    width: -webkit-fill-available !important;
+    height: 42.94px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
